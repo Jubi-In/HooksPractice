@@ -1,14 +1,14 @@
 # Studying Hooks
 
 - [x] useState
-- [] useInput
-- [] useTabs
-- [] useTitle
-- [] useClick
-- [] useConfirm 
-- [] usePreventLeave
-- [] useBeforeLeave
-- [] useFadein
+- [x] useInput
+- [x] useTabs
+- [x] useTitle
+- [x] useClick
+- [x] useConfirm 
+- [x] usePreventLeave
+- [x] useBeforeLeave
+- [x] useFadein
 - [] useNetwork
 - [] useScroll
 - [] useFullScreen
